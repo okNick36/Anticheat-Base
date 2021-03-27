@@ -1,0 +1,5 @@
+name: Anticheat
+description: Example plugin for my simple anticheat base.
+author: nickreesdev
+version: 1.0
+main: me.nicholas.anticheat.Anticheat
